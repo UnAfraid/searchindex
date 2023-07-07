@@ -1,4 +1,4 @@
-module github.com/twelvedata/searchindex
+module github.com/UnAfraid/searchindex
 
 go 1.18
 

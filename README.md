@@ -18,7 +18,7 @@ package main
 
 import (
     "fmt"
-    "github.com/twelvedata/searchindex"
+    "github.com/UnAfraid/searchindex"
 )
 
 type SymbolInfo struct {
